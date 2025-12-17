@@ -79,7 +79,7 @@ A **custom scikit-learn–compatible transformer** (`FeatureEngineer`) was imple
 | Cross-Validation RMSE (Mean ± std) | 47,994 ± 613.6      | 45,797 ± 400       |
 | Test RMSE                          | 48,645.4            | 45,687.4           |
 | Test MAE                           | 32,001.6            | 29,585.1           |
-| R² Score                           | 0.8190              | 0.8407             |
+| R² Score                           | 0.8194              | 0.8407             |
 
 
 > ✅ Optimization led to **lower error**, **better generalization**, and **higher explained variance**.
