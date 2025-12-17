@@ -111,12 +111,6 @@ A **custom scikit-learn–compatible transformer** (`FeatureEngineer`) was imple
 - Python
 - NumPy, Pandas,Matplotlib, Seaborn
 - scikit-learn
-  
----
-
-This project demonstrates a complete end-to-end regression workflow, including data exploration, feature analysis, model training, evaluation, and interpretation—using a reliable ensemble method on a real-world housing dataset.
-
----
 
 ## Model Persistence
 
