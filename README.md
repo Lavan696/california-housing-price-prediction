@@ -72,7 +72,7 @@ A **custom scikit-learn–compatible transformer** (`FeatureEngineer`) was imple
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 | Metric                             | Before Optimization | After Optimization |
 |------------------------------------|---------------------|--------------------|
