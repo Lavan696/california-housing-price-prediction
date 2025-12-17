@@ -106,6 +106,7 @@ A **custom scikit-learn–compatible transformer** (`FeatureEngineer`) was imple
 - Geographic comparison of actual vs predicted house values
 
 ---
+
 ## Tech Stack
 
 - Python
