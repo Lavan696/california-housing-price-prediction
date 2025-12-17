@@ -113,6 +113,8 @@ A **custom scikit-learn–compatible transformer** (`FeatureEngineer`) was imple
 - NumPy, Pandas,Matplotlib, Seaborn
 - scikit-learn
 
+---
+
 ## Model Persistence
 
 The final optimized model is saved using `joblib`:
